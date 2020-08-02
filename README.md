@@ -1,2 +1,3 @@
 # BodyMovingGame
- DSP Embedded based game with using TFT-LCD and CIS-Camera
+(DSP + TFT-LCD + CIS-Camera)
+Motion recognition games with using TFT-LCD and CIS-Camera
